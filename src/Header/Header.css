@@ -1,0 +1,24 @@
+.navbars{
+    background-color: #282c34!important;
+    text-align: left!important;
+    padding-right: 100px;
+    margin-right: 10px;
+}
+
+.navbrands{
+    padding-right: 20px!important;
+}
+
+/* .hulu-brand{
+   text-align: right!important;
+} */
+
+.navbrands-head{
+   font-family: 'Luckiest Guy', cursive;
+   text-align: right!important;
+   margin-left: 360px!important;
+   color: white;
+   padding-left: 290px!important;
+   font-size: 20px!important;
+   font-weight: bold;
+}
